@@ -5,6 +5,7 @@ import time
 
 driver = None
 driver_path = None
+test = None
 
 
 
